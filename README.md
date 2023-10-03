@@ -2,7 +2,7 @@
 
 ## Description
 
-The Quote Management System is a full-stack application designed to provide a seamless user experience for managing and sharing quotes. It leverages Apollo Client, Apollo Server, GraphQL, and React to deliver a feature-rich and secure platform.
+The Quote Management System is a full-stack application designed to provide a seamless user experience for managing and sharing quotes. It leverages Apollo Client, Apollo Server, GraphQL,Mongodb and React to deliver a feature-rich and secure platform.
 
 ## Features
 
@@ -32,6 +32,7 @@ The Quote Management System is a full-stack application designed to provide a se
 - Apollo Server: GraphQL server implementation for handling queries and mutations.
 - GraphQL: Query language for APIs, enhancing data retrieval efficiency.
 - React: Used for building a dynamic and responsive user interface.
+- Mongodb: Used for store all the data.
 
 ## Achievements
 
